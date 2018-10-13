@@ -1,0 +1,8 @@
+# project files
+.idea/
+
+# dependencies
+node_modules/
+
+# garbage
+dist/

@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+#root {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.page {
+  margin-top: 15px;
+  flex: 1 0 auto;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+.link {
+  color: #343a40;
+  &:hover {
+    color: darken(#343a40, 15%);
+    text-decoration: none;
+  }
+}
