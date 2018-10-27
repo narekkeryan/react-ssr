@@ -1,6 +1,6 @@
 {
-  "name": "react-ssr",
-  "version": "1.0.0",
+  "name": "react-ssr-app",
+  "version": "1.0.1",
   "description": "React Server-Side Rendering",
   "main": "index.js",
   "scripts": {
