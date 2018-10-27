@@ -2,8 +2,9 @@
 React Server-Side Rendering boilerplate for building universal apps.
 
 ## Installation
-* clone repo `git clone https://github.com/narekkeryan/react-ssr`
-* install dependencies `npm install`
+for npm@5.2.0 or above `npx react-ssr-app rssr-app`
+for other npm versions `npm install --global react-ssr-app` `react-ssr-app rssr-app`
+* change directory `cd rssr-app`
 * run dev mode `npm start`
 * open in browser `http://localhost:3000`
 
